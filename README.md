@@ -3,7 +3,7 @@
 </p>  
 
 ## 🖥️ Projeto
-Esse é o resultado do desafio intensivão do stage 01 ao stage 04 do curso Explore onde fizemos um projeto web de uma página onde aplicamos os conhecimentos adquididos no stages, como:
+Esse é o resultado do desafio intensivão do stage 01 ao stage 04 do curso Explore onde fizemos um projeto web de uma página onde aplicamos os conhecimentos adquiridos no stages, como:
 
 - regra do mobile first;
 - aplicação responsiva;

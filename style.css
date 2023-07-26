@@ -23,7 +23,7 @@ body, input,textarea {
 body {
   font-size: 1.6rem;
   background-color: var(--color-base-white);
-  max-width: 43rem;
+ 
 }
 
 header .astro {
@@ -143,6 +143,15 @@ form legend {
 
   border-radius: 1.6rem;
   border: 1.5px solid #312D64;    
+
+}
+
+#name {
+  background: url(./assets/person.png) no-repeat scroll 1.4rem 0.9rem;
+}
+
+#email {
+  background: url(./assets/at.png)no-repeat scroll 1.4rem 0.9rem;
 }
 
 .input-wrapper ::placeholder{
@@ -150,6 +159,7 @@ form legend {
   font-size: 1.6rem;
   font-weight: 600;
   line-height: 1.6rem;
+  padding-left: 2.8rem;
 }
 
 .fildset-wrapper textarea {
